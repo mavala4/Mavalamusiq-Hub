@@ -1,2 +1,1 @@
-# Mavalamusiq-Hub
-Mavalamusiq hub is a music store where you can stream and buy music Mavalamusiq hub brings Authentic sound to the people and memories to tye dance floor
+Mavalamusiq Hub is a music discovery platform for Amapiano, Private School Piano, Deep House and Afro House. Discover emerging artists, explore new sounds and enjoy music previews through a modern, mobile-friendly experience built to connect African music with the world.
